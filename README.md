@@ -6,6 +6,7 @@ MacBeacon
 　
 #### 注意！
 実行前に、PCのBluetoothをONにしてください。
+
 お持ちのPCがBLE対応かご確認ください。
 
 #### お知らせ
